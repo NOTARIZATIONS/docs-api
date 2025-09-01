@@ -3282,7 +3282,7 @@
         "example": "https://mp3s.nashownotes.com/NA-1322-Captions.srt"
       },
       "transcript": {
-        "description": "This tag is used to link to a transcript or closed captions file. Multiple tags can be present for multiple transcript formats.\n\nDetailed file format information and example files are [here](https://github.com/Podcastindex-org/podcast-namespace/blob/main/transcripts/transcripts.md).\n",
+        "description": "This tag is used to link to a transcript or closed captions file. Multiple tags can be present for multiple transcript formats.\n\nDetailed file format information and example files are [here](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/tags/transcript.md).\n",
         "type": "object",
         "properties": {
           "url": {
